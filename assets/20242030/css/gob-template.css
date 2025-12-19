@@ -1,0 +1,326 @@
+/* @import url(puebla.css); */
+
+:root{
+--FondoFooter:#5f1b2d;
+}
+
+body 
+{
+max-width: 1400px;
+margin: 0 auto;
+/*box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 50px;*/
+box-shadow: 0 0 25px 0 #9e9e9e;
+}
+
+.body {padding: 0px 15px 0px 15px;}
+.com-content-article{padding-top: 10px; padding-bottom: 30px;}
+.joomla-content{margin-top: 40px; margin-bottom: 40px;}
+.joomla-content h2{margin-bottom: 30px;}
+
+/************************************\
+    T A M A Ã‘ O   D E   F U E N T E 
+\************************************/
+.fs-1rem{font-size: 1rem;}
+.fs-1-5rem{font-size: 1.5rem;}
+.fs-2rem{font-size: 2rem;}
+
+/************************************\
+    G R O S O R   D E   F U E N T E  
+\************************************/
+.fw-300, .fw-light{font-weight: 300;}
+.fw-400, .fw-regular{font-weight: 400;}
+.fw-500, .fw-medium{font-weight: 500;}
+.fw-600, .fw-semibold{font-weight: 600;}
+.fw-700, .fw-bold{font-weight: 700;}
+
+/****************************************\
+    T A M A Ã‘ O   D E   T I T U L O S  
+\****************************************/
+.body h1, .uk-h1{font:500 2.5rem 'Corra Montserra'; text-align: center; padding-top:20px;}
+.body h2, .uk-h2{font:500 2rem 'Corra Montserra'; }
+.body h3, .uk-h3{font:600 1.5rem 'Corra Montserra'; }
+.body h4, .uk-h4{font:600 1.2rem 'Corra Montserra'; }
+.body h5, .uk-h5{font:600 1rem 'Corra Montserra'; }
+.body p{font:1rem 'Corra Montserra'; }
+.body a{font:1.1rem 'Corra Montserra'; color:#484747;} 
+.body a:hover{font:1.1rem 'Corra Montserra'; color:#5f1b2b;}
+
+/************************************\
+    C O L O R   D E   T E X T O S 
+\************************************/
+.c-5f1b2b{color:#5f1b2b;}
+.c-861e34{color:#861e34;}
+.c-af1731{color:#af1731;}
+.c-c79b66{color:#c79b66;}
+.c-e2be96{color:#e2be96;}
+.c-fffded{color:#fffded;}
+.c-0a322b{color:#0a322b;}
+.c-246257{color:#246257;}
+.c-3d9b84{color:#3d9b84;}
+.c-484747{color:#484747;}
+.c-b2b2b1{color:#b2b2b1;}
+.c-ececec{color:#ececec;}
+.c-f1f1f1{ color: #f1f1f1;}
+.c-fff, .c-ffffff{ color: #ffffff;}
+
+/************************************\
+    C O L O R   D E   F O N D O S  
+\************************************/
+.bgc-5f1b2b{background-color:#5f1b2b;}
+.bgc-861e34{background-color:#861e34;}
+.bgc-af1731{background-color:#af1731;}
+.bgc-c79b66{background-color:#c79b66;}
+.bgc-e2be96{background-color:#e2be96;}
+.bgc-fffded{background-color:#fffded;}
+.bgc-0a322b{background-color:#0a322b;}
+.bgc-246257{background-color:#246257;}
+.bgc-3d9b84{background-color:#3d9b84;}
+.bgc-649882{background-color:#649882;}
+.bgc-484747{background-color:#484747;}
+.bgc-b2b2b1{background-color:#b2b2b1;}
+.bgc-ececec{background-color:#ececec;}
+.bgc-ffffff{background-color:#ffffff;}
+
+/************************************\
+    C O L O R   D E   H O V E R   
+\************************************/
+.bgch-484747:hover,
+.bgch-484747:visited
+{transition: background-color 300ms; background-color: #b2b2b1;}
+ 
+/***************************************\
+    T A M A Ã‘ O   D E   B O T O N E S  
+\****************************************/
+.small-button{font-size: 14px; padding:10px 30px; border-radius: 7px;}
+.medium-button{font-size: 20px; padding:10px 30px; border-radius: 7px;}
+.large-button{font-size: 20px; padding:10px 30px; border-radius: 7px;}
+.white-button a { 
+    border: none;
+    border-radius: 20px;
+    padding: 10px 35px;
+    background: #ffffff;
+    color: #b2b2b1;
+    font-family: 'Corra Montserra';
+    font-size: 1.3rem;
+    transition: all 0.2s ease-in-out;
+    box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.1);
+    word-break: break-word;
+    white-space: nowrap; 
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 100%;
+}
+
+/************************\
+      H E A D E R  
+\************************/
+.header{
+  background-color: rgb(255, 255, 255);
+  position: sticky;
+  top: 0;
+  z-index: 999;
+  max-width: 100%!important;
+  box-shadow: 0 0 25px 0 #9e9e9e;
+}
+.header-inner{
+  max-width: 1400px;
+  margin: 0 auto;
+   height: auto;
+  box-shadow: 0 0 25px 0 #9e9e9e;
+  padding: 0px 15px 0px 15px;
+}
+.img-header {
+    height: 130px;
+    width: auto;
+    display: block;
+    object-fit: contain;
+}
+.img-access {
+    height: 100px;
+    max-height: 100%!important;
+    width: auto;
+    display: block;
+    position: relative;
+    left: 30px; 
+}
+
+/************************\
+      M E N U  
+\************************/
+.menu-container {
+  max-width: 100%;
+  padding: 12px 15px 12px 15px;
+}
+.mod-menu{
+ display: inline-block;
+  align-items: center;
+  line-height: 20px;
+  list-style-type: none;
+  font:500 1.1rem 'Corra Montserra';
+  margin-left: 20px;
+  text-transform: uppercase;
+}
+ul.mod-menu{
+  display: flex; 
+  align-content: space-between; 
+}
+ul.mod-menu li { 
+  display: inline-block;
+  align-items: center;
+  line-height: 20px;
+  list-style-type: none;
+  font:500 1.1rem 'Corra Montserra';
+  margin-left: 20px;
+  text-transform: uppercase;
+}
+ul.mod-menu li a{
+  white-space: nowrap; 
+  color:#b2b2b1;
+}
+ul.mod-menu li:hover{
+  border-bottom: -1px solid white;
+}
+
+/************************\
+      F O O T E R 
+\************************/
+.footer{background: var(--FondoFooter);}
+.sombra-footer {
+  top: 0;
+  height: 100%;
+  pointer-events: none;
+}
+.sombra-footer img {
+  position: absolute;
+  z-index: 0;
+}
+/* Imagen vertical */
+.sombra-vertical {
+  max-height: 100%;
+  object-fit: contain;
+  top: 0;
+}
+/* Imagen horizontal */
+.sombra-horizontal {
+  max-width: 100%;
+  object-fit: contain;
+  top: 50%;
+  transform: translateY(-50%);
+}
+/**Ligas Footer**/
+.sitios_interes a, 
+.sitios_interes a:hover, 
+.sitios_interes a:visited, 
+.sitios_interes a:focus {
+  color: #fffbef;
+  font-size: 14pt; 
+	line-height: 1.8;
+}
+
+/************************ **********\
+      A C C E S I B I L I T Y
+\**********************************/
+._access-icon {
+    display: none !important;
+}
+._access-menu {
+    left: auto !important;
+    right: 20px !important; 
+}
+._access-menu.close {
+    display: none !important;
+    opacity: 0 !important;
+    width: 0 !important;
+    pointer-events: none;
+}
+
+/*****************************\
+      P O C I S I O N E S
+\*****************************/
+.below-bottom{
+  background: linear-gradient(180deg, rgba(242,242,242,1) 1%, rgba(255,255,255,1) 11%);
+  padding:50px;
+}    
+.container{
+  padding-bottom: 70px;
+}
+
+/*************************\
+      M O D U L O S
+\*************************/
+.boder{
+    border-radius: 25px;
+}
+.filtro-icons{
+  filter: brightness(0) invert(1)!important;
+}
+.uk-lightbox {
+  z-index: 10000 !important;
+}
+.truncate-text {
+  white-space: normal; 
+  overflow-wrap: break-word;
+  text-overflow: ellipsis;
+  max-width: 70%;
+  display: block;
+}
+
+.links-grey {
+    font-size: 1rem;
+    line-height: 1.2;
+}
+.links-grey p { margin: 0; padding: 5px; }
+.links-grey a { color: #5d666a; }
+.links-grey a:hover { color: #3c4145; }
+.links-grey a:before { content: '>> '; color: #A8123E; font-weight: bold; margin-right: 5px; }
+
+.itemcat-title, 
+.itemcat-title a,
+.itemcat-title:hover, 
+.itemcat-title a:hover 
+    {
+    color: #861e34;
+    text-align: justify;
+    text-decoration: none; /* Evita subrayado en enlaces */
+}
+/************************************\
+      M E D I A   Q U E R Y S 
+\************************************/
+@media only screen and (min-width : 960px) and (max-width:1260px){
+  .img-access {left: 25px!important; }
+}
+
+@media only screen and (min-width : 640px) and (max-width:959px){
+  ul.mod-menu li{ padding-top: 20px; font:500 .9rem 'Corra Montserra'; }
+  .img-access {left: 23px!important; }
+}
+
+@media only screen and (min-width : 431px) and (max-width:639px){
+  .img-access {left: 15px!important; top: 5px;}
+}
+
+@media (max-width:430px){
+  .img-access {left: 12px!important; top: 4px;}
+}
+
+/** TelÃ©fonos mÃ³viles **/
+@media (max-width: 767px) {
+  /* estilos para mÃ³viles */
+}
+
+/** Tablets **/
+@media (min-width: 768px) and (max-width: 992px) {
+  /* estilos para tablets  */
+}
+
+/** Laptos **/
+@media (min-width: 768px) {
+  /* estilos para tablets, laptops y mÃ¡s grandes */
+}
+
+/*
+PequeÃ±o (mÃ³vil)	576px	@media (min-width: 576px)
+Mediano (tablet)	768px	@media (min-width: 768px)
+Grande (laptop)	992px	@media (min-width: 992px)
+Extra grande	1200px	@media (min-width: 1200px)
+XXL (4K)	1400px	@media (min-width: 1400px)*/
