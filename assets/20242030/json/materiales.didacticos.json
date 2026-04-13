@@ -52,7 +52,8 @@
 			{ "desc":"TARJETON 1", "src":"https://sdti-ippi.github.io/SIEPI/multimedia/20242030/img/post_loteria/tarjeton_1.jpg", "type":"img", "pdf":null },
 			{ "desc":"TARJETON 2", "src":"https://sdti-ippi.github.io/SIEPI/multimedia/20242030/img/post_loteria/tarjeton_2.jpg", "type":"img", "pdf":null },
 			{ "desc":"TARJETON 3", "src":"https://sdti-ippi.github.io/SIEPI/multimedia/20242030/img/post_loteria/tarjeton_3.jpg", "type":"img", "pdf":null },
-			{ "desc":"TARJETON 4", "src":"https://sdti-ippi.github.io/SIEPI/multimedia/20242030/img/post_loteria/tarjeton_4.jpg", "type":"img", "pdf":null }
+			{ "desc":"TARJETON 4", "src":"https://sdti-ippi.github.io/SIEPI/multimedia/20242030/img/post_loteria/tarjeton_4.jpg", "type":"img", "pdf":null },
+			{ "desc":"LOTERÍAS EN TOTONACO", "src":"https://sdti-ippi.github.io/SIEPI/multimedia/20242030/img/post_loteria/totonaco_sur.png", "type":"pdf", "pdf":"https://sdti-ippi.github.io/SIEPI/multimedia/20242030/pdf/post_loteria/totonaco_sur.pdf" }
 		],
 		"audios":[],
 		"videos":[]
@@ -114,6 +115,15 @@
 			{ "desc":"Mixteco", "src":"https://sdti-ippi.github.io/SIEPI/multimedia/20242030/img/post_vocabulario_juridico/cj_mixteco.jpg", "type":"img", "pdf":null },
 			{ "desc":"Ngigua", "src":"https://sdti-ippi.github.io/SIEPI/multimedia/20242030/img/post_vocabulario_juridico/cj_ngigua.jpg", "type":"img", "pdf":null },
 			{ "desc":"Mazateco", "src":"https://sdti-ippi.github.io/SIEPI/multimedia/20242030/img/post_vocabulario_juridico/cj_mazateco.jpg", "type":"img", "pdf":null }
+		],
+		"audios":[],
+		"videos":[]
+	},
+	{
+		"title":"SOPA DE LETRAS", 
+		"images":[
+			{ "desc":"Náhuatl", "src":"https://sdti-ippi.github.io/SIEPI/multimedia/20242030/img/post_sopa_letra/sopa_nahuatl.png", "type":"img", "pdf":null },
+			{ "desc":"Totonaco", "src":"https://sdti-ippi.github.io/SIEPI/multimedia/20242030/img/post_sopa_letra/sopa_totonaco.png", "type":"img", "pdf":null }
 		],
 		"audios":[],
 		"videos":[]
