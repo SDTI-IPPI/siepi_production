@@ -1,0 +1,131 @@
+[
+	{
+		"title":"ALFABETOS", 
+		"images":[
+			{ "desc":"Náhuatl", "src":"https://sdti-ippi.github.io/SIEPI/multimedia/20242030/img/post_alfabetos/nahuatl.jpg", "type":"img", "pdf":null },
+			{ "desc":"Totonaco", "src":"https://sdti-ippi.github.io/SIEPI/multimedia/20242030/img/post_alfabetos/totonaco.jpg", "type":"img", "pdf":null },
+			{ "desc":"Mixteco", "src":"https://sdti-ippi.github.io/SIEPI/multimedia/20242030/img/post_alfabetos/mixteco.jpg", "type":"img", "pdf":null }
+		],
+		"audios":[],
+		"videos":[]
+	},
+	{
+		"title":"DIVERSIDAD LINGÜÍSTICA", 
+		"images":[
+			{ "desc":"", "src":"https://sdti-ippi.github.io/SIEPI/multimedia/20242030/img/post_diversidad_linguistica/map_general.jpg", "type":"img", "pdf":null },
+			{ "desc":"", "src":"https://sdti-ippi.github.io/SIEPI/multimedia/20242030/img/post_diversidad_linguistica/map_municipios.jpg", "type":"img", "pdf":null }
+		],
+		"audios":[],
+		"videos":[]
+	},
+	{
+		"title":"CARTELES", 
+		"images":[
+			{ "desc":"Náhuatl Norte", "src":"https://sdti-ippi.github.io/SIEPI/multimedia/20242030/img/post_lenguas/nahuatl_1_ippi.jpg", "type":"img", "pdf":null },
+			{ "desc":"Náhuatl Sur", "src":"https://sdti-ippi.github.io/SIEPI/multimedia/20242030/img/post_lenguas/nahuatl_2_ippi.jpg", "type":"img", "pdf":null },
+			{ "desc":"Totonaco", "src":"https://sdti-ippi.github.io/SIEPI/multimedia/20242030/img/post_lenguas/totonaco_ippi.jpg", "type":"img", "pdf":null },
+			{ "desc":"Mixteco", "src":"https://sdti-ippi.github.io/SIEPI/multimedia/20242030/img/post_lenguas/mixteco_ippi.jpg", "type":"img", "pdf":null },
+			{ "desc":"Tepehua", "src":"https://sdti-ippi.github.io/SIEPI/multimedia/20242030/img/post_lenguas/tepehua_ippi.jpg", "type":"img", "pdf":null },
+			{ "desc":"Ngigua", "src":"https://sdti-ippi.github.io/SIEPI/multimedia/20242030/img/post_lenguas/ngigua_ippi.jpg", "type":"img", "pdf":null },
+			{ "desc":"Mazateco", "src":"https://sdti-ippi.github.io/SIEPI/multimedia/20242030/img/post_lenguas/mazateco_ippi.jpg", "type":"img", "pdf":null },
+			{ "desc":"Otomí", "src":"https://sdti-ippi.github.io/SIEPI/multimedia/20242030/img/post_lenguas/otomi_ippi.jpg", "type":"img", "pdf":null }
+		],
+		"audios":[],
+		"videos":[]
+	},
+	{
+		"title":"CUERPO HUMANO", 
+		"images":[
+			{ "desc":"Náhuatl", "src":"https://sdti-ippi.github.io/SIEPI/multimedia/20242030/img/post_cuerpo_humano/nahuatl.jpg", "type":"img", "pdf":null },
+			{ "desc":"Totonaco", "src":"https://sdti-ippi.github.io/SIEPI/multimedia/20242030/img/post_cuerpo_humano/totonaco.jpg", "type":"img", "pdf":null },
+			{ "desc":"Ngiva", "src":"https://sdti-ippi.github.io/SIEPI/multimedia/20242030/img/post_cuerpo_humano/ngiva.jpg", "type":"img", "pdf":null }
+		],
+		"audios":[],
+		"videos":[]
+	},
+	{
+		"title":"LOTERÍAS", 
+		"images":[
+			{ "desc":"CARTA 1", "src":"https://sdti-ippi.github.io/SIEPI/multimedia/20242030/img/post_loteria/carta_1.jpg", "type":"img", "pdf":null },
+			{ "desc":"CARTA 2", "src":"https://sdti-ippi.github.io/SIEPI/multimedia/20242030/img/post_loteria/carta_2.jpg", "type":"img", "pdf":null },
+			{ "desc":"CARTA 3", "src":"https://sdti-ippi.github.io/SIEPI/multimedia/20242030/img/post_loteria/carta_3.jpg", "type":"img", "pdf":null },
+			{ "desc":"TARJETON 1", "src":"https://sdti-ippi.github.io/SIEPI/multimedia/20242030/img/post_loteria/tarjeton_1.jpg", "type":"img", "pdf":null },
+			{ "desc":"TARJETON 2", "src":"https://sdti-ippi.github.io/SIEPI/multimedia/20242030/img/post_loteria/tarjeton_2.jpg", "type":"img", "pdf":null },
+			{ "desc":"TARJETON 3", "src":"https://sdti-ippi.github.io/SIEPI/multimedia/20242030/img/post_loteria/tarjeton_3.jpg", "type":"img", "pdf":null },
+			{ "desc":"TARJETON 4", "src":"https://sdti-ippi.github.io/SIEPI/multimedia/20242030/img/post_loteria/tarjeton_4.jpg", "type":"img", "pdf":null },
+			{ "desc":"LOTERÍAS EN TOTONACO", "src":"https://sdti-ippi.github.io/SIEPI/multimedia/20242030/img/post_loteria/totonaco_sur.png", "type":"pdf", "pdf":"https://sdti-ippi.github.io/SIEPI/multimedia/20242030/pdf/post_loteria/totonaco_sur.pdf" }
+		],
+		"audios":[],
+		"videos":[]
+	},
+	{
+		"title":"PARTES DE LA MILPA", 
+		"images":[
+			{ "desc":"Español", "src":"https://sdti-ippi.github.io/SIEPI/multimedia/20242030/img/post_partes_milpa/esp.jpg", "type":"img", "pdf":null },
+			{ "desc":"Náhuatl", "src":"https://sdti-ippi.github.io/SIEPI/multimedia/20242030/img/post_partes_milpa/nahuatl.jpg", "type":"img", "pdf":null },
+			{ "desc":"Totonaco", "src":"https://sdti-ippi.github.io/SIEPI/multimedia/20242030/img/post_partes_milpa/totonaco.jpg", "type":"img", "pdf":null }
+		],
+		"audios":[],
+		"videos":[]
+	},
+	{
+		"title":"PIRAMIDE DE VULNERABILIDAD", 
+		"images":[
+			{ "desc":"Español", "src":"https://sdti-ippi.github.io/SIEPI/multimedia/20242030/img/post_piramide_vulnerabilidad/esp.jpg", "type":"img", "pdf":null },
+			{ "desc":"Mazateco", "src":"https://sdti-ippi.github.io/SIEPI/multimedia/20242030/img/post_piramide_vulnerabilidad/mazateco.jpg", "type":"img", "pdf":null },
+			{ "desc":"Mixteco", "src":"https://sdti-ippi.github.io/SIEPI/multimedia/20242030/img/post_piramide_vulnerabilidad/mixteco.jpg", "type":"img", "pdf":null },
+			{ "desc":"Náhuatl", "src":"https://sdti-ippi.github.io/SIEPI/multimedia/20242030/img/post_piramide_vulnerabilidad/nahuatl.jpg", "type":"img", "pdf":null },
+			{ "desc":"Ngigua", "src":"https://sdti-ippi.github.io/SIEPI/multimedia/20242030/img/post_piramide_vulnerabilidad/ngigua.jpg", "type":"img", "pdf":null },
+			{ "desc":"Otomí", "src":"https://sdti-ippi.github.io/SIEPI/multimedia/20242030/img/post_piramide_vulnerabilidad/otomi.jpg", "type":"img", "pdf":null },
+			{ "desc":"Tepehua", "src":"https://sdti-ippi.github.io/SIEPI/multimedia/20242030/img/post_piramide_vulnerabilidad/tepehua.jpg", "type":"img", "pdf":null },
+			{ "desc":"Totonaco", "src":"https://sdti-ippi.github.io/SIEPI/multimedia/20242030/img/post_piramide_vulnerabilidad/totonaco.jpg", "type":"img", "pdf":null }
+		],
+		"audios":[],
+		"videos":[]
+	},
+	{
+		"title":"PRONTUARIOS", 
+		"images":[
+			{ "desc":"Náhuatl", "src":"https://sdti-ippi.github.io/SIEPI/multimedia/20242030/img/post_prontuarios/nahuatl.jpg", "type":"img", "pdf":null },
+			{ "desc":"Totonaco", "src":"https://sdti-ippi.github.io/SIEPI/multimedia/20242030/img/post_prontuarios/totonaco.jpg", "type":"img", "pdf":null },
+			{ "desc":"Mixteco", "src":"https://sdti-ippi.github.io/SIEPI/multimedia/20242030/img/post_prontuarios/mixteco.jpg", "type":"img", "pdf":null },
+			{ "desc":"Tepehua", "src":"https://sdti-ippi.github.io/SIEPI/multimedia/20242030/img/post_prontuarios/tepehua.jpg", "type":"img", "pdf":null },
+			{ "desc":"Otomí", "src":"https://sdti-ippi.github.io/SIEPI/multimedia/20242030/img/post_prontuarios/otomi.jpg", "type":"img", "pdf":null },
+			{ "desc":"Ngiva", "src":"https://sdti-ippi.github.io/SIEPI/multimedia/20242030/img/post_prontuarios/ngiva_1.jpg", "type":"img", "pdf":null },
+			{ "desc":"Ngiva", "src":"https://sdti-ippi.github.io/SIEPI/multimedia/20242030/img/post_prontuarios/ngiva_2.jpg", "type":"img", "pdf":null },
+			{ "desc":"Mazateco", "src":"https://sdti-ippi.github.io/SIEPI/multimedia/20242030/img/post_prontuarios/mazateco_1.jpg", "type":"img", "pdf":null },
+			{ "desc":"Mazateco", "src":"https://sdti-ippi.github.io/SIEPI/multimedia/20242030/img/post_prontuarios/mazateco_2.jpg", "type":"img", "pdf":null }
+		],
+		"audios":[],
+		"videos":[]
+	},
+	{
+		"title":"VIOLENTOMETRO", 
+		"images":[
+			{ "desc":"Mazateco", "src":"https://sdti-ippi.github.io/SIEPI/multimedia/20242030/img/post_violentometro/mazateco.jpg", "type":"img", "pdf":null },
+			{ "desc":"Náhuatl", "src":"https://sdti-ippi.github.io/SIEPI/multimedia/20242030/img/post_violentometro/nahuatl.jpg", "type":"img", "pdf":null },
+			{ "desc":"Otomí", "src":"https://sdti-ippi.github.io/SIEPI/multimedia/20242030/img/post_violentometro/otomi.jpg", "type":"img", "pdf":null }
+		],
+		"audios":[],
+		"videos":[]
+	},
+	{
+		"title":"VOCABULARIO JURÍDICO", 
+		"images":[
+			{ "desc":"Mixteco", "src":"https://sdti-ippi.github.io/SIEPI/multimedia/20242030/img/post_vocabulario_juridico/cj_mixteco.jpg", "type":"img", "pdf":null },
+			{ "desc":"Ngigua", "src":"https://sdti-ippi.github.io/SIEPI/multimedia/20242030/img/post_vocabulario_juridico/cj_ngigua.jpg", "type":"img", "pdf":null },
+			{ "desc":"Mazateco", "src":"https://sdti-ippi.github.io/SIEPI/multimedia/20242030/img/post_vocabulario_juridico/cj_mazateco.jpg", "type":"img", "pdf":null }
+		],
+		"audios":[],
+		"videos":[]
+	},
+	{
+		"title":"SOPA DE LETRAS", 
+		"images":[
+			{ "desc":"Náhuatl", "src":"https://sdti-ippi.github.io/SIEPI/multimedia/20242030/img/post_sopa_letra/sopa_nahuatl.png", "type":"img", "pdf":null },
+			{ "desc":"Totonaco", "src":"https://sdti-ippi.github.io/SIEPI/multimedia/20242030/img/post_sopa_letra/sopa_totonaco.png", "type":"img", "pdf":null }
+		],
+		"audios":[],
+		"videos":[]
+	}
+]
